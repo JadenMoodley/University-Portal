@@ -1,0 +1,8 @@
+com\university\portal\model\Course.class
+com\university\portal\dao\CourseDAO.class
+com\university\portal\servlet\CourseServlet.class
+com\university\portal\dao\StudentDAO.class
+com\university\portal\model\Student.class
+com\university\portal\servlet\FacultyServlet.class
+com\university\portal\servlet\StudentServlet.class
+com\university\portal\dao\DBUtil.class
